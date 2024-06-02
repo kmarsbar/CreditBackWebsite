@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Template Name: Furni
+Template Author: Untree.co
+Template License: https://creativecommons.org/licenses/by/3.0/
+Author URI: https://untree.co/
 
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Twitter: https://twitter.com/Untree_co
+Facebook: https://web.facebook.com/Untree.co/
+Pinterest: https://pinterest.com/Untree_co/
